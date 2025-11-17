@@ -4,8 +4,8 @@ A simple React app (Vite) showcasing favorite movies.
 This project was prepared for you to push to your GitHub repository and deploy to Vercel or Netlify.
 
 ## Links
-- **GitHub Repository:** (push this project to your GitHub and add the link here)
-- **Live Website:** (deploy on Vercel/Netlify and add the live link here)
+- **GitHub Repository:** https://github.com/SHABAB0110/movies_shabab.git
+- **Live Website:** https://genuine-biscuit-63d39f.netlify.app/
 
 ## Run Locally
 
